@@ -1,7 +1,20 @@
 <Solution>
+  <Project Path="atividade100/atividade100.csproj" Id="536688ce-3696-4c41-93f5-c22c002a9a4e" />
+  <Project Path="atividade101/atividade101.csproj" Id="fd9048b7-5106-4a95-8de9-c3c23c7f27e5" />
+  <Project Path="atividade102/atividade102.csproj" Id="bd51b7f2-fb49-4d9b-922f-706a38073ae1" />
+  <Project Path="atividade103/atividade103.csproj" Id="332b0c1a-575b-4bca-bc4b-78ce4e28b914" />
+  <Project Path="atividade104/atividade104.csproj" Id="0154c629-5077-4f35-b2c3-fdbfe1423380" />
+  <Project Path="atividade105/atividade105.csproj" Id="51b0fd2b-2289-4421-a8a8-febe93bb997a" />
   <Project Path="atividade89/atividade89.csproj" Id="c9d2adae-6050-4b21-9e33-090833d86d13" />
   <Project Path="atividade90/atividade90.csproj" Id="072e96ed-3fbe-4b1a-a619-11acdfc6278f" />
   <Project Path="atividade91/atividade91.csproj" Id="80722fcb-e7bb-4430-ad83-18aeda57ed30" />
   <Project Path="atividade92/atividade92.csproj" Id="decf5d3b-d008-4e68-ae5e-6f68b19f1c1e" />
+  <Project Path="atividade93/atividade93.csproj" Id="61ddb887-9208-44f8-81b2-c8fdc67b16a8" />
+  <Project Path="atividade94/atividade94.csproj" Id="d3183f82-c2c4-4a1f-ba3d-63b5d55c21f5" />
+  <Project Path="atividade95/atividade95.csproj" Id="2bbeb002-bce5-4c43-a790-781ccac80201" />
+  <Project Path="atividade96/atividade96.csproj" Id="3cf3d177-e845-4834-b2ec-29138ac47fea" />
+  <Project Path="atividade97/atividade97.csproj" Id="24a5a402-5229-49f7-8f4c-b8c69d853a3a" />
+  <Project Path="atividade98/atividade98.csproj" Id="d8b67a4d-2621-49bb-8065-081ecfe45105" />
+  <Project Path="atividade99/atividade99.csproj" Id="e619a89d-3761-4be5-997a-8a1c6321ca72" />
   <Project Path="AtividadeFor/atividade88.csproj" />
 </Solution>
