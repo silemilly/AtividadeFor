@@ -9,5 +9,5 @@ while (massa >= 0.05)
     tempo += 50;
 }
 
-Console.WriteLine($"\nTempo necessário: {tempo} segundos");
+Console.WriteLine($"Tempo necessário: {tempo} segundos");
 Console.WriteLine($"Massa final: {massa:F5} g");

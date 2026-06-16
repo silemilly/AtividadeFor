@@ -7,7 +7,7 @@ double menorSalario = 0;
 
 for (int i = 0; i < quantidade; i++)
 {
-    Console.Write($"\nDigite o nome do funcionário {i + 1}: ");
+    Console.Write($"Digite o nome do funcionário {i + 1}: ");
     string nome = Console.ReadLine();
 
     Console.Write($"Digite o salário de {nome}: ");
@@ -32,7 +32,7 @@ for (int i = 0; i < quantidade; i++)
 
 double media = somaSalarios / quantidade;
 
-Console.WriteLine("\n--- Resultados ---");
+Console.WriteLine("--- Resultados ---");
 Console.WriteLine($"Média dos salários: R$ {media:F2}");
 Console.WriteLine($"Maior salário: R$ {maiorSalario:F2}");
 Console.WriteLine($"Menor salário: R$ {menorSalario:F2}");
